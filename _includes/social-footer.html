@@ -21,9 +21,9 @@
     </a>
     {%- endif -%}
 
-    {%- if site.github -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}" class="social-button itch-io"
-        href="https://www.github.com/{{ site.github }}" itemprop="sameAs" target="_blank">
+    {%- if site.itchio -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'itchio' }}" class="social-button itch-io"
+        href="https://{{ site.itchio }}.itch.io/" itemprop="sameAs" target="_blank">
         <i class="fab fa-itch-io"></i>
     </a>
     {%- endif -%}

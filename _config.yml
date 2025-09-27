@@ -16,6 +16,7 @@ paginate_path: /blog/page:num/
 linkedin: jordan-ehara
 stackoverflow: "#"
 github: jordanehara
+itchio: zursa
 researchgate: "#"
 orcid: "#"
 quora: "#"
@@ -45,7 +46,7 @@ compress_html:
 collections:
   projects:
     output: true
-    permalink: /projects/:name/
+    permalink: /portfolio/:name/
     order:
       - shortProject.md
       - longerProjectTitle.md
