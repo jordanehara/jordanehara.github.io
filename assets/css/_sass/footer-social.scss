@@ -34,13 +34,8 @@
 .fa-facebook-f,
 .fa-linkedin,
 .fa-github,
-.fa-orcid,
-.fa-researchgate,
-.fa-bluesky,
-.fa-envelope,
-.fa-quora,
-.fa-instagram,
-.fa-stack-overflow {
+.fa-itch-io
+{
   font-size: 25px;
 }
 
@@ -82,6 +77,16 @@
   color: #60c17d;
   background: #fefefe;
   border-color: #000000;
+}
+
+.rounded-social-buttons .social-button.itch-io {
+  background: #ff7b00;
+}
+
+.rounded-social-buttons .social-button.itch-io:hover, .rounded-social-buttons .social-button.itch-io:focus {
+  color: #ff7b00;
+  background: #fefefe;
+  border-color: #ff7b00;
 }
 
 .rounded-social-buttons .social-button.orcid {

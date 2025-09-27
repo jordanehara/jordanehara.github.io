@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Jordan Ehara
+description: Game Programmer
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl:  #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -13,9 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
+linkedin: jordan-ehara
 stackoverflow: "#"
-github: "#"
+github: jordanehara
 researchgate: "#"
 orcid: "#"
 quora: "#"
