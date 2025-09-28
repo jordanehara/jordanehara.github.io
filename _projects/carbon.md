@@ -3,7 +3,7 @@ layout: default
 title: Carbon
 description: A 2D puzzle game about escaping a spaceship controlled by a sentient autopilot. Started as a game built in a week for the Brackey's 2025.2 game jam, but continued development after the jam completed.
 images:
-  main: carbon_title.png
+  main: Carbon_title.png
 ---
 
 Carbon

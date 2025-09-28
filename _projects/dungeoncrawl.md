@@ -3,7 +3,7 @@ layout: default
 title: Dungeon-Crawl
 description: A 3D top-down action role play game about finding your adventuring partner.
 images:
-  main: dungeon-crawl_title.png
+  main: Dungeon-Crawl_title.png
 ---
 
 Dungeon Crawl (Working Title)
