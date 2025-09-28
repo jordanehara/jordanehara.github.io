@@ -1,6 +1,6 @@
 /* Project Page */
 .ProjectContainer {
-  max-width: 800px;
+  max-height: auto;
   margin: 0 auto;
   padding: 2rem;
 }
@@ -10,6 +10,15 @@
   flex-wrap: wrap;
   /* Compensate for excess margin on outer gallery flex items */
   margin: -1rem -1rem;
+}
+
+.projectImgGallery img
+{
+  float: right;
+  width: 400px;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
 }
 
 .projectTile {
@@ -30,6 +39,7 @@
   vertical-align: middle;
   text-align: center;
   cursor: pointer;
+  size: 20px;
 }
 
 .projectTile a span {
@@ -107,13 +117,23 @@
 @supports (display: grid) {
   .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    // grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 2rem;
   }
 
   .gallery,
   .gallery-item {
     margin: 0;
+  }
+
+  .gallery img {
+    float: right;
+    height: 200px;
+    padding-left: 1em;
+  }
+
+  .galleryItem {
+    max-height: 400px;
   }
 }
 

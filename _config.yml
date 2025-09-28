@@ -49,7 +49,7 @@ collections:
     permalink: /portfolio/:name/
     order:
       - carbon.md
-      - longerProjectTitle.md
+      - dungeoncrawl.md
 
 sass:
   sass_dir: /assets/css/_sass
