@@ -6,8 +6,8 @@ profile:
   image: profile.png
 published: true
 ---
-<br>
-## Hello! ##
+Hello!
+============
 I'm a gameplay programmer passionate about telling stories through narrative games. Currently I'm working on solo projects and on a small team developing short stories into imactful game experiences. 
 
 My background in quality assurance trained me to prioritize and advocate for a "player first" experience and keep a clear understanding on player expectations from the start of development all the way through release.
