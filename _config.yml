@@ -5,7 +5,7 @@ description: Game Programmer
 
 baseurl:  #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: jordan.ehara@gmail.com
 
 # Pagination
 paginate: 4
@@ -50,7 +50,6 @@ collections:
     order:
       - carbon.md
       - longerProjectTitle.md
-      - redirect.md
 
 sass:
   sass_dir: /assets/css/_sass

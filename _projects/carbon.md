@@ -2,6 +2,7 @@
 layout: post
 title: Carbon
 description: description of the short project which is long enough
+image: carbon_title.png
 ---
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
